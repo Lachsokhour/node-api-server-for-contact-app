@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "afb5a-1678-2c47-14d-4a333c03176b",
+      "name": "Lach Sokhour",
+      "email": "lachsokhour168@gmail.com"
+    },
+    {
+      "id": "dc812-30ef-fb85-8401-822d037c5323",
+      "name": "ANGULAR",
+      "email": "lachsokhour1D68@gmail.com"
+    },
+    {
+      "id": "7ff231-0d61-2d7c-71c8-86d8ac5b67b8",
+      "name": "Soklay",
+      "email": "soklay@gmail.com"
+    },
+    {
+      "id": "deda7c6-3bee-3c83-2fa7-23bb135b1378",
+      "name": "Lach Sokhour",
+      "email": "lachsokhour168@gmail.com"
+    }
+  ]
+}
